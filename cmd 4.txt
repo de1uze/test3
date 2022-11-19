@@ -1,0 +1,13 @@
+Cloning method 1):-
+:
+
+git config --list
+git clone "repourl"
+git add .
+git commit -m"msg"
+git push
+
+after pushing if there is changes :
+git add .
+git commit -m"new-msg"
+git push
